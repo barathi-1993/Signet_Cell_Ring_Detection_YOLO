@@ -111,7 +111,19 @@ Whole Slide Images (WSIs) are gigapixel-scale digital scans of tissue sections. 
 | `yolo26l.pt` | Large | Slower | **Highest accuracy** |
 
 ---
+## Environment Setup
 
+#### Using pip
+```bash
+pip install -r requirements.txt
+```
+
+#### Using conda
+```bash
+conda env create -f environment.yml
+conda activate src_detection
+```
+---
 ## Dataset
 
 ### DigestPath Dataset
