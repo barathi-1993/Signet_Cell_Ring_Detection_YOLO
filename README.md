@@ -75,11 +75,7 @@ Whole Slide Images (WSIs) are gigapixel-scale digital scans of tissue sections. 
 --- 
 
 ### Sample SRC Detections
-
-| Input Image | Detection Output |
-|:-----------:|:----------------:|
-| <img src="images/sample1_input.jpeg" width="300" alt="Sample 1 — Input tile"/> | <img src="images/sample1_detection.jpeg" width="300" alt="Sample 1 — SRC detected"/> |
-| <img src="images/sample2_input.jpeg" width="300" alt="Sample 2 — Input tile"/> | <img src="images/sample2_detection.jpeg" width="300" alt="Sample 2 — SRC detected"/> |
+| <img src="images/output_1.jpg" width="300" alt="Sample 1 — Input tile"/> | <img src="images/output_2.jpg" width="300" alt="Sample 1 — SRC detected"/> | <img src="images/output_3.jpg" width="300" alt="Sample 2 — SRC detected"/> |
 
 > Green bounding boxes indicate detected Signet Ring Cells with confidence scores.
 
