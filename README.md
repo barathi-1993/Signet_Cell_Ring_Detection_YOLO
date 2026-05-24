@@ -1,4 +1,4 @@
-# 🔬 Signet Ring Cell Detection in Whole Slide Images using YOLO
+# 🔬 Signet Ring Cell Detection in Whole Slide Images using YOLO  
 
 > A deep learning pipeline for automated detection of **Signet Ring Cells (SRC)** in histopathology whole slide images using the latest YOLO object detection architecture.
 
